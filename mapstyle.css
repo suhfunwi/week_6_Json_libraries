@@ -1,0 +1,6 @@
+#college-map {
+    width: 600px;
+    height: 500px;
+    border: 1px blue solid;
+/*    if height is set to 0 you can't see it*/
+}
